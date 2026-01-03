@@ -1,0 +1,13 @@
+Sum of Profit,Profit_Status ,,,
+ Product ,Break-even,Loss,Profit,Grand Total
+ Air Conditioner ,,,2000,2000
+ Heater ,,-500,,-500
+ Jacket ,,,1200,1200
+ Laptop ,,,3500,3500
+ Mobile Phone ,,,2500,2500
+ Power Bank ,,,6200,6200
+ Rain Jacket ,0,-400,700,300
+ Refrigerator ,,-1500,2500,1000
+ Sweater ,0,-200,1500,1300
+ Washing Machine ,0,-500,1500,1000
+Grand Total,0,-3100,21600,18500
