@@ -62,13 +62,13 @@ Loss-making product-region combinations are clearly flagged for review or discon
 
 📂 Repository Contents
 
-![Dashboard Screenshot](Sales_insights_dashboard.png) – Dashboard preview
+Dashboard preview - ![Dashboard Screenshot](Sales_insights_dashboard.png)
 
-![Product_Region Performannce Details Screenshot](Product-Region_performance_details.png) - Product-Region Performance details
+Product-Region Performance details - ![Product_Region Performannce Details Screenshot](Product-Region_performance_details.png) 
 
-Sales_insights.xlsx – Source data
+Source data - Sales_insights.xlsx 
 
-Sales_Insights_Dashboard.pbix - Power BI report file
+Power BI report file - Sales_Insights_Dashboard.pbix
 
 🚀 Learnings
 
