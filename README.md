@@ -66,7 +66,7 @@ Dashboard preview - ![Dashboard Screenshot](Sales_insights_dashboard.png)
 
 Product-Region Performance details - ![Product_Region Performannce Details Screenshot](Product-Region_performance_details.png) 
 
-Source data - `Sales_insights.csv` 
+Source data - `Sales_insights.xlsx` 
 
 Power BI report file - `Sales_Insights_Dashboard.pbix`
 
